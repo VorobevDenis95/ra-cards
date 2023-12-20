@@ -1,0 +1,33 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  width: 18rem;
+}
+
+.card-img-top {
+  width: 100px;
+}
+
+.card__link {
+  text-decoration: none;
+  border: none;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  background-color: rgb(44, 90, 243);
+  color: #fff;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+
